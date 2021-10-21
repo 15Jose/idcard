@@ -18,6 +18,12 @@ input, select {
   font-weight:bold;
   margin-right: 8px;
 }
+ing {
+  width: 200px;
+}
+.random {
+  font-size: 30px;
+}
 .info-container {
   gap: 16px;
 }
